@@ -1,0 +1,180 @@
+[
+  {
+    "id": "darija-english",
+    "group": "translation",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش نقدر نحجز جوج بلايص لغدا؟",
+      "source": "ary_Arab",
+      "target": "eng_Latn"
+    }
+  },
+  {
+    "id": "darija-turkish",
+    "group": "translation",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش نقدر نحجز جوج بلايص لغدا؟",
+      "source": "ary_Arab",
+      "target": "tur_Latn"
+    }
+  },
+  {
+    "id": "breadth-chinese",
+    "group": "translation",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "مرحبا بكم فالمغرب.",
+      "source": "ary_Arab",
+      "target": "cmn_Hans"
+    }
+  },
+  {
+    "id": "breadth-korean",
+    "group": "translation",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "مرحبا بكم فالمغرب.",
+      "source": "ary_Arab",
+      "target": "kor_Hang"
+    }
+  },
+  {
+    "id": "breadth-hindi-greeting",
+    "group": "translation",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "Good morning. How are you?",
+      "source": "eng_Latn",
+      "target": "hin_Deva"
+    }
+  },
+  {
+    "id": "arabic-to-latin",
+    "group": "transliteration",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "سلام، واش نقدر نحجز جوج بلايص لغدا؟",
+      "source": "ary_Arab",
+      "target": "ary_Latn"
+    }
+  },
+  {
+    "id": "latin-to-arabic",
+    "group": "transliteration",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "Salam, wach n9der n7jez jouj blayes lghdda?",
+      "source": "ary_Latn",
+      "target": "ary_Arab"
+    }
+  },
+  {
+    "id": "gender-female",
+    "group": "gender",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "I am happy to be here.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "The speaker is female. Use the corresponding grammatical gender. Return only the translation."
+    }
+  },
+  {
+    "id": "gender-male",
+    "group": "gender",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "I am happy to be here.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "The speaker is male. Use the corresponding grammatical gender. Return only the translation."
+    }
+  },
+  {
+    "id": "tone-casual",
+    "group": "tone",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "We need your reply by tomorrow.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "Use a casual tone. Preserve the deadline and meaning. Return only the translation."
+    }
+  },
+  {
+    "id": "tone-formal",
+    "group": "tone",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "We need your reply by tomorrow.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "Use a formal tone. Preserve the deadline and meaning. Return only the translation."
+    }
+  },
+  {
+    "id": "french-tu-darija",
+    "group": "address",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "fra_Latn",
+      "instructions": "Address one person informally using tu."
+    }
+  },
+  {
+    "id": "french-vous-darija",
+    "group": "address",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "fra_Latn",
+      "instructions": "Address one person formally using vous."
+    }
+  },
+  {
+    "id": "german-du-darija",
+    "group": "address",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "deu_Latn",
+      "instructions": "Address one person informally using du."
+    }
+  },
+  {
+    "id": "german-sie-darija",
+    "group": "address",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "deu_Latn",
+      "instructions": "Address one person formally using Sie."
+    }
+  },
+  {
+    "id": "tachelhit-water",
+    "group": "amazigh",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "الما",
+      "source": "ary_Arab",
+      "target": "shi_Latn"
+    }
+  },
+  {
+    "id": "tamazight-water",
+    "group": "amazigh",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "eau",
+      "source": "fra_Latn",
+      "target": "zgh_Tfng"
+    }
+  }
+]

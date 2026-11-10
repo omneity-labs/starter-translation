@@ -1,0 +1,571 @@
+[
+  {
+    "id": "darija-english",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش نقدر نحجز جوج بلايص لغدا؟",
+      "source": "ary_Arab",
+      "target": "eng_Latn"
+    },
+    "response": {
+      "data": {
+        "input": "واش نقدر نحجز جوج بلايص لغدا؟",
+        "translated": "Can I reserve two seats for tomorrow?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "eng_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 8,
+        "prompt_tokens": 75,
+        "total_tokens": 83,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:41.599548+00:00"
+  },
+  {
+    "id": "darija-turkish",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش نقدر نحجز جوج بلايص لغدا؟",
+      "source": "ary_Arab",
+      "target": "tur_Latn"
+    },
+    "response": {
+      "data": {
+        "input": "واش نقدر نحجز جوج بلايص لغدا؟",
+        "translated": "Yarın için iki yer ayırtabilir miyim?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "tur_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 11,
+        "prompt_tokens": 76,
+        "total_tokens": 87,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:42.468057+00:00"
+  },
+  {
+    "id": "breadth-chinese",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "مرحبا بكم فالمغرب.",
+      "source": "ary_Arab",
+      "target": "cmn_Hans"
+    },
+    "response": {
+      "data": {
+        "input": "مرحبا بكم فالمغرب.",
+        "translated": "欢迎来到摩洛哥！",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "cmn_Hans",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 7,
+        "prompt_tokens": 71,
+        "total_tokens": 78,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:38:27.778662+00:00"
+  },
+  {
+    "id": "breadth-korean",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "مرحبا بكم فالمغرب.",
+      "source": "ary_Arab",
+      "target": "kor_Hang"
+    },
+    "response": {
+      "data": {
+        "input": "مرحبا بكم فالمغرب.",
+        "translated": "모로코에 오신 것을 환영합니다.",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "kor_Hang",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 70,
+        "total_tokens": 82,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:38:27.088065+00:00"
+  },
+  {
+    "id": "breadth-hindi-greeting",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "Good morning. How are you?",
+      "source": "eng_Latn",
+      "target": "hin_Deva"
+    },
+    "response": {
+      "data": {
+        "input": "Good morning. How are you?",
+        "translated": "सुप्रभात। आप कैसे हैं?",
+        "alternatives": [],
+        "detected_lang": "eng_Latn",
+        "source": "eng_Latn",
+        "target": "hin_Deva",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 8,
+        "prompt_tokens": 70,
+        "total_tokens": 78,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:38:57.100654+00:00"
+  },
+  {
+    "id": "arabic-to-latin",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "سلام، واش نقدر نحجز جوج بلايص لغدا؟",
+      "source": "ary_Arab",
+      "target": "ary_Latn"
+    },
+    "response": {
+      "data": {
+        "input": "سلام، واش نقدر نحجز جوج بلايص لغدا؟",
+        "translated": "Salam, wach nqder n7jez jouj blayes lghda?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "ary_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 13,
+        "prompt_tokens": 83,
+        "total_tokens": 96,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:43.215420+00:00"
+  },
+  {
+    "id": "latin-to-arabic",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "Salam, wach n9der n7jez jouj blayes lghdda?",
+      "source": "ary_Latn",
+      "target": "ary_Arab"
+    },
+    "response": {
+      "data": {
+        "input": "Salam, wach n9der n7jez jouj blayes lghdda?",
+        "translated": "سلام، واش نقدر نحجز جوج بلايص غدا؟",
+        "alternatives": [],
+        "detected_lang": "ary_Latn",
+        "source": "ary_Latn",
+        "target": "ary_Arab",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 13,
+        "prompt_tokens": 83,
+        "total_tokens": 96,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:43.413189+00:00"
+  },
+  {
+    "id": "gender-female",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "I am happy to be here.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "The speaker is female. Use the corresponding grammatical gender. Return only the translation."
+    },
+    "response": {
+      "data": {
+        "input": "I am happy to be here.",
+        "translated": "Je suis heureuse d'être ici.",
+        "alternatives": [],
+        "detected_lang": "eng_Latn",
+        "source": "eng_Latn",
+        "target": "fra_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 7,
+        "prompt_tokens": 88,
+        "total_tokens": 95,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:46.039430+00:00"
+  },
+  {
+    "id": "gender-male",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "I am happy to be here.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "The speaker is male. Use the corresponding grammatical gender. Return only the translation."
+    },
+    "response": {
+      "data": {
+        "input": "I am happy to be here.",
+        "translated": "Je suis heureux d'être ici.",
+        "alternatives": [],
+        "detected_lang": "eng_Latn",
+        "source": "eng_Latn",
+        "target": "fra_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 6,
+        "prompt_tokens": 88,
+        "total_tokens": 94,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:47.168486+00:00"
+  },
+  {
+    "id": "tone-casual",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "We need your reply by tomorrow.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "Use a casual tone. Preserve the deadline and meaning. Return only the translation."
+    },
+    "response": {
+      "data": {
+        "input": "We need your reply by tomorrow.",
+        "translated": "On a besoin de ta réponse pour demain.",
+        "alternatives": [],
+        "detected_lang": "eng_Latn",
+        "source": "eng_Latn",
+        "target": "fra_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 89,
+        "total_tokens": 99,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:47.939538+00:00"
+  },
+  {
+    "id": "tone-formal",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "We need your reply by tomorrow.",
+      "source": "eng_Latn",
+      "target": "fra_Latn",
+      "instructions": "Use a formal tone. Preserve the deadline and meaning. Return only the translation."
+    },
+    "response": {
+      "data": {
+        "input": "We need your reply by tomorrow.",
+        "translated": "Nous avons besoin de votre réponse d'ici demain.",
+        "alternatives": [],
+        "detected_lang": "eng_Latn",
+        "source": "eng_Latn",
+        "target": "fra_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 11,
+        "prompt_tokens": 89,
+        "total_tokens": 100,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T12:24:47.007986+00:00"
+  },
+  {
+    "id": "french-tu-darija",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "fra_Latn",
+      "instructions": "Address one person informally using tu."
+    },
+    "response": {
+      "data": {
+        "input": "واش تقدر تصيفط ليا الدوسي؟",
+        "translated": "Peux-tu m'envoyer le dossier ?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "fra_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 84,
+        "total_tokens": 94,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T19:35:08.111037+00:00"
+  },
+  {
+    "id": "french-vous-darija",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "fra_Latn",
+      "instructions": "Address one person formally using vous."
+    },
+    "response": {
+      "data": {
+        "input": "واش تقدر تصيفط ليا الدوسي؟",
+        "translated": "Pourriez-vous m'envoyer le dossier ?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "fra_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 84,
+        "total_tokens": 94,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T19:35:08.681044+00:00"
+  },
+  {
+    "id": "german-du-darija",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "deu_Latn",
+      "instructions": "Address one person informally using du."
+    },
+    "response": {
+      "data": {
+        "input": "واش تقدر تصيفط ليا الدوسي؟",
+        "translated": "Kannst du mir die Akte schicken?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "deu_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 85,
+        "total_tokens": 95,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T19:35:08.666678+00:00"
+  },
+  {
+    "id": "german-sie-darija",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "واش تقدر تصيفط ليا الدوسي؟",
+      "source": "ary_Arab",
+      "target": "deu_Latn",
+      "instructions": "Address one person formally using Sie."
+    },
+    "response": {
+      "data": {
+        "input": "واش تقدر تصيفط ليا الدوسي؟",
+        "translated": "Könnten Sie mir die Akte schicken?",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "deu_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 85,
+        "total_tokens": 97,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T19:35:08.910826+00:00"
+  },
+  {
+    "id": "tachelhit-water",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "الما",
+      "source": "ary_Arab",
+      "target": "shi_Latn"
+    },
+    "response": {
+      "data": {
+        "input": "الما",
+        "translated": "Aman",
+        "alternatives": [],
+        "detected_lang": "ary_Arab",
+        "source": "ary_Arab",
+        "target": "shi_Latn",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 74,
+        "total_tokens": 77,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T19:36:49.936555+00:00"
+  },
+  {
+    "id": "tamazight-water",
+    "request": {
+      "model": "tarjamli-mini-v4",
+      "text": "eau",
+      "source": "fra_Latn",
+      "target": "zgh_Tfng"
+    },
+    "response": {
+      "data": {
+        "input": "eau",
+        "translated": "ⴰⵎⴰⵏ",
+        "alternatives": [],
+        "detected_lang": "fra_Latn",
+        "source": "fra_Latn",
+        "target": "zgh_Tfng",
+        "model": "tarjamli-mini-v4",
+        "complete": true
+      },
+      "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 76,
+        "total_tokens": 79,
+        "completion_tokens_details": null,
+        "prompt_tokens_details": {
+          "audio_tokens": null,
+          "cache_write_tokens": null,
+          "cached_tokens": 0
+        }
+      }
+    },
+    "captured_at": "2026-11-08T14:35:05.619327+00:00"
+  }
+]

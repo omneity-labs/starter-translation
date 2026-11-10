@@ -1,8 +1,8 @@
 .env
-.venv/
+.env.*
+!.env.example
 __pycache__/
 node_modules/
 dist/
-output/
-*.wav
-*.srt
+*.pyc
+.DS_Store
