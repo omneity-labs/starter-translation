@@ -1,1 +1,1 @@
-tarjamli==0.1.0
+tarjamli==0.1.2

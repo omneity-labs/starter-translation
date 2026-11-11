@@ -2,6 +2,8 @@
 
 Translate your own text with Tarjamli through the [Sawalni API](https://api.sawalni.com). Python and TypeScript clients are included, with examples for translation, Darija Arabic ↔ Latin conversion, and instructions that change how a translation is written.
 
+The Python examples use [tarjamli on PyPI](https://pypi.org/project/tarjamli/), pinned to `0.1.2` in `requirements.txt`.
+
 ## Translate something
 
 Create an API key at [api.sawalni.com](https://api.sawalni.com) and set it in your terminal:
@@ -13,7 +15,7 @@ export SAWALNI_API_KEY="your-key"
 Python 3.10+:
 
 ```sh
-pip install tarjamli
+pip install -r requirements.txt
 ```
 
 Then translate your own text:
